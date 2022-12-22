@@ -47,6 +47,6 @@ s
 
 ## Github Account Stats:
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=NathanSoa&theme=midnight-purple&show_icons=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanSoa&hide=html&layout=compact&theme=midnight-purple"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=NathanSoa&theme=midnight-purple&show_icons=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanSoa&hide=html&layout=compact&theme=midnight-purple"/>
 <div>
