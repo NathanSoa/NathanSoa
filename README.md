@@ -5,7 +5,6 @@
 #### ☕ Interested in Java and JavaScript.
 #### 💻 Focused at back-end development, little interest in front-end development.
 #### 📖 Currently IT student at Fatec Mogi das Cruzes
-#### Intern at NewGo Tecnologias
 
 ### Contact me:
 <p>
@@ -18,7 +17,6 @@
 </p>
   
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-s
 <br/>
 
 ## 🚀 My Tech Stack:
