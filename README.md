@@ -3,7 +3,7 @@
 ## About Me
 
 #### ☕ Interested in Java and JavaScript.
-#### 💻 Had studied more back-end development, interested in front-end development too.
+#### 💻 Studied more back-end development, interested in front-end development too.
 #### 📖 Currently IT student at Fatec Mogi das Cruzes
 
 ### Contact me:
