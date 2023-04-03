@@ -27,18 +27,12 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> &nbsp;
   <img alt="java" height="60" width="60" 
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"> &nbsp;
-  <img alt="html5" height="60" width="60" 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"> &nbsp;
-  <img alt="css3" height="60" width="60" 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"> &nbsp; 
   <img alt="github" height="60" width="60" 
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> &nbsp;
   <img alt="git" height="60" width="60" 
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> &nbsp;
   <img alt="spring-framework" height="60" width="60" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"> &nbsp;
-  <img alt="mysql" height="60" width="60" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> &nbsp;
 </div>
 <br/>
 
