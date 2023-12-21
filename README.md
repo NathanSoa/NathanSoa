@@ -2,9 +2,7 @@
 
 ## About Me
 
-#### ☕ Interested in Java and JavaScript.
-#### 💻 Studied more back-end development, interested in front-end development too.
-#### 📖 Currently IT student at Fatec Mogi das Cruzes
+#### ☕ I'm a full stack developer with a passion for creating web applications. I have experience working with OracleSQL, Java, Spring Boot, Docker, JavaScript, TypeScript, and ReactJS. I enjoy learning new technologies and exploring new challenges. 
 
 ### Contact me:
 <p>
@@ -25,6 +23,10 @@
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> &nbsp;
   <img alt="typescript" height="60" width="60" 
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> &nbsp;
+  <img alt="React" height="40" width="40" 
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> &nbsp;
+  <img alt="Node" height="40" width="40" 
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> &nbsp;
   <img alt="java" height="60" width="60" 
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"> &nbsp;
   <img alt="github" height="60" width="60" 
@@ -33,6 +35,9 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> &nbsp;
   <img alt="spring-framework" height="60" width="60" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"> &nbsp;
+  <img alt="docker" height="60" width="60" 
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> &nbsp;
+  
 </div>
 <br/>
 
